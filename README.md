@@ -1,1 +1,3 @@
-# exoplanet-extract
+# Exoplanet-Extract-EDA
+
+EDA of the NASA Exoplanet Archive
